@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Main-Class: com.is2m.serveur_d_application.ServeurDApplication
+Class-Path: tomcat-embed-websocket-9.0.54.jar spring-boot-starter-data-m
+ ongodb-2.5.6.jar spring-tx-5.3.12.jar spring-aop-5.3.12.jar mongodb-dri
+ ver-sync-4.2.3.jar spring-web-5.3.12.jar jackson-datatype-jdk8-2.12.5.j
+ ar asm-9.1.jar lombok-1.18.22.jar jakarta.annotation-api-1.3.5.jar spri
+ ng-jcl-5.3.12.jar mongodb-driver-core-4.2.3.jar jul-to-slf4j-1.7.32.jar
+  spring-boot-starter-tomcat-2.5.6.jar spring-boot-starter-logging-2.5.6
+ .jar log4j-to-slf4j-2.14.1.jar spring-beans-5.3.12.jar evo-inflector-1.
+ 2.2.jar log4j-api-2.14.1.jar spring-plugin-core-2.0.0.RELEASE.jar sprin
+ g-boot-autoconfigure-2.5.6.jar spring-boot-starter-2.5.6.jar spring-boo
+ t-starter-web-2.5.6.jar logback-core-1.2.6.jar tomcat-embed-core-9.0.54
+ .jar spring-data-commons-2.5.6.jar spring-boot-2.5.6.jar spring-boot-st
+ arter-data-rest-2.5.6.jar bson-4.2.3.jar snakeyaml-1.28.jar jackson-mod
+ ule-parameter-names-2.12.5.jar slf4j-api-1.7.32.jar accessors-smart-2.4
+ .7.jar logback-classic-1.2.6.jar spring-boot-starter-json-2.5.6.jar spr
+ ing-core-5.3.12.jar spring-webmvc-5.3.12.jar jackson-databind-2.12.5.ja
+ r spring-data-rest-webmvc-3.5.6.jar jackson-core-2.12.5.jar spring-hate
+ oas-1.3.5.jar spring-data-mongodb-3.2.6.jar tomcat-embed-el-9.0.54.jar 
+ spring-expression-5.3.12.jar jackson-datatype-jsr310-2.12.5.jar spring-
+ data-rest-core-3.5.6.jar jackson-annotations-2.12.5.jar spring-context-
+ 5.3.12.jar json-path-2.5.0.jar json-smart-2.4.7.jar
+
